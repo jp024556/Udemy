@@ -2,7 +2,7 @@
 ```
 > Import "udemy.sql" with the help of phpmyadmin.
 
-> For login, pls open login controller like on local machine _localhost/udemy/login_.
+> For login, pls open login controller like on local machine `localhost/udemy/login`.
 
 
 > Please Note that all the features are not included considering the given time.
