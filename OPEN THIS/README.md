@@ -2,10 +2,10 @@
 ```
 > Import "udemy.sql" with the help of phpmyadmin.
 
-> For login, pls open login controller like on local machine localhost/udemy/login.
+> For login, pls open login controller like on local machine _localhost/udemy/login_.
 
 
-> Please Note that all the features is not included considering the given time.
+> Please Note that all the features are not included considering the given time.
 ```
 ---
 > Default username: jp024556
