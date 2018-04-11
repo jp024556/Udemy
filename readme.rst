@@ -1,4 +1,8 @@
 ###################
+Read "README" From "OPEN THIS" directory
+###################
+
+###################
 What is CodeIgniter
 ###################
 
